@@ -77,11 +77,8 @@
 		4C02FA861B73034E00AB7568 /* Calcul8r */ = {
 			isa = PBXGroup;
 			children = (
-				4C02FA891B73034E00AB7568 /* AppDelegate.swift */,
 				4C02FA8B1B73034E00AB7568 /* ViewController.swift */,
 				4C02FA8D1B73034E00AB7568 /* Main.storyboard */,
-				4C02FA901B73034E00AB7568 /* Images.xcassets */,
-				4C02FA921B73034E00AB7568 /* LaunchScreen.xib */,
 				4C02FA871B73034E00AB7568 /* Supporting Files */,
 			);
 			path = Calcul8r;
@@ -90,6 +87,9 @@
 		4C02FA871B73034E00AB7568 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4C02FA891B73034E00AB7568 /* AppDelegate.swift */,
+				4C02FA921B73034E00AB7568 /* LaunchScreen.xib */,
+				4C02FA901B73034E00AB7568 /* Images.xcassets */,
 				4C02FA881B73034E00AB7568 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -411,6 +411,7 @@
 				4C02FAA51B73034E00AB7568 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C02FAA61B73034E00AB7568 /* Build configuration list for PBXNativeTarget "Calcul8rTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				4C02FAA81B73034E00AB7568 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
